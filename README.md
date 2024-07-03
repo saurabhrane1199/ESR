@@ -9,3 +9,8 @@
 4. Geohashing - proximity calculation
 
 ![Image 1](./Screenshots/1.jpeg)
+
+![Image 2](./Screenshots/2.jpeg)
+
+![Image 3](./Screenshots/3.jpeg)
+
